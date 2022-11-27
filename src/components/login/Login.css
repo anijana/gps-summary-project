@@ -1,0 +1,28 @@
+.wrap {
+    width: 420px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 180px;
+    background-color: #fff;
+    border: 1px solid gray;
+    padding: 20px;
+}
+.wrap input {
+    width: 400px;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 5px;
+    outline: none;
+}
+.wrap .btn-login {
+    width: 412px;
+    height: 35px;
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    font-size: 20px;
+}

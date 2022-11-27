@@ -1,0 +1,24 @@
+.content-table {
+    border-collapse: collapse;
+    margin: 20px 20px;
+    font-size: 1em;
+    min-width: 400px;
+}
+.content-table thead tr {
+    background-color: burlywood;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+
+}
+.content-table th {
+    padding: 8px 110px;
+    border-bottom: 1px solid grey;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.content-table td {
+    padding: 8px 117px;
+    border-bottom: 1px solid grey;
+    
+}
